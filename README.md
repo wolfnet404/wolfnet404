@@ -1,16 +1,102 @@
-## Hi there 👋
+## # 👋 Hey there, I'm Ayoub
 
-<!--
-**wolfnet404/wolfnet404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
+Ayoub_dev
 
-Here are some ideas to get you started:
+$ skills
+Python • Linux • Bash • GitHub • AI Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ os
+Zorin OS
+
+$ shell
+bash + starship
+```
+
+## 🚀 About Me
+
+```python
+class Ayoub:
+    def __init__(self):
+        self.username = "Ayoub_dev"
+        self.learning = ["Python", "Linux", "Automation"]
+        self.interests = ["AI", "Tech", "Open Source"]
+        self.goal = "Build real projects"
+
+    def status(self):
+        return "Always learning..."
+```
+
+---
+
+## ⚡ Tech Stack
+
+```txt
+💻 Languages:
+Python
+Bash
+
+🛠 Tools:
+Git
+GitHub
+VS Code
+Linux Terminal
+
+🎨 Setup:
+Catppuccin Mocha
+JetBrainsMono Nerd Font
+Fastfetch
+Starship Prompt
+```
+
+---
+
+## 📊 GitHub Stats
+
+```bash
+> loading developer profile...
+> initializing projects...
+> connecting to open-source world...
+```
+
+---
+
+## 🌌 Current Focus
+
+```txt
+[✓] Learning Python
+[✓] Linux Customization
+[✓] Building Projects
+[✓] Exploring AI Tools
+[ ] Becoming a Tech Wizard 😭
+```
+
+---
+
+## 🔥 Terminal Vibes
+
+```bash
+OS       : Zorin OS
+Terminal : GNOME Terminal
+Theme    : Catppuccin
+Font     : JetBrainsMono Nerd Font
+Editor   : VS Code
+Mood     : Night Coding 🌙
+```
+
+---
+
+## 📫 Connect
+
+```txt
+Open Source Learner
+Building cool stuff & leveling up daily
+```
+
+---
+
+```bash
+$ echo "Start small. Build daily."
+Start small. Build daily.
+```
