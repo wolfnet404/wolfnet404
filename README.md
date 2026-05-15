@@ -1,12 +1,17 @@
 # 🚀 Ayoub Dev
-<!-- HEADER -->
+<!-- HEADER BACKGROUND -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Ayoub%20Dev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,100:0f62fe&height=240&section=header&text=Ayoub%20Dev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- TYPING -->
+<!-- SPIDER WEB / TECH ANIMATED BACKGROUND -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Python+Developer;Web+Developer;AI+%26+Computer+Vision+Builder;Building+Smart+Automation+Tools" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="900"/>
+</p>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Web+Developer;AI+%26+Vision+Builder;Tech+Tools+Creator" />
 </p>
 
 
