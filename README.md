@@ -1,52 +1,79 @@
-![Hey there, I'm Ayoub Dev. I'm a software developer, a maker and tech enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+# 👋 Hey there, I'm Ayoub Dev
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/ayoub_dev?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/ayoub_dev) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/ayoub-dev?logo=GitHub&style=for-the-badge)](https://github.com/ayoub-dev) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/ayoub-dev?logo=github&style=for-the-badge)](https://github.com/ayoub-dev) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/ayoub-dev?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/ayoub-dev)
+🚀 Software Developer | 🐍 Python Enthusiast | 🌐 Web Developer | 🤖 AI & Computer Vision Builder
 
-# 👋 &nbsp;Hi there
+---
 
-I'm Ayoub, a software developer based in Morocco. I enjoy building open-source projects, learning new technologies, and creating useful tools that solve real problems.
+## 💡 About Me
 
-I love combining my interests like coding, cybersecurity, and building projects with Raspberry Pi / Arduino. I'm also interested in automation, Linux systems, and web development.
+I'm Ayoub, a passionate developer from Morocco focused on building **real-world tools** using:
 
-&nbsp;
+- 🐍 Python (automation, tools, AI scripts)
+- 🌐 Web Development (HTML, CSS, JavaScript, React basics)
+- 🤖 AI & Computer Vision (Face detection, Vision tools, smart apps)
 
-## 👇 &nbsp;Current project
+I enjoy turning ideas into useful tools that actually solve problems.
 
-I'm currently working on my personal dev tools and Discord automation projects. I'm also building open-source tools to help developers and learners.
+---
 
-&nbsp;
+## ⚒️ What I Do
 
-## ✏️ &nbsp;Blog posts
+- 🧰 Build Python tools & automation scripts
+- 👁️ Work on Face Detection & Computer Vision projects
+- 🌍 Create simple and clean web apps
+- 🤖 Explore AI-powered tools and experiments
+- 🛠️ Develop Discord bots and utility tools
 
-<!-- BLOG-POST-LIST:START -->
-- [My journey into programming and Linux](https://github.com/ayoub-dev)
-- [Building my first Discord bot](https://github.com/ayoub-dev)
-- [Learning Python step by step](https://github.com/ayoub-dev)
-<!-- BLOG-POST-LIST:END -->
+---
 
-&nbsp;
+## 🧠 Current Focus
 
-## 🧰 &nbsp;My toolbox
+- Improving my Python skills (advanced level)
+- Building AI Vision projects (face tracking / detection)
+- Creating useful dev tools for GitHub
+- Learning full-stack web development step by step
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+---
 
-&nbsp;
+## 🧰 Tech Stack
 
-## 🖥 &nbsp;Past work
+**Languages & Tools:**
+- Python 🐍
+- JavaScript ⚡
+- HTML / CSS 🌐
+- Git & GitHub 🔧
+- Linux 🐧
 
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=ayoub-dev&repo=my-project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/ayoub-dev/my-project)
+**AI / Vision:**
+- OpenCV 👁️
+- Face Recognition libraries 🤖
+- MediaPipe (learning phase)
 
-&nbsp;
+---
 
-## 📊 &nbsp;Stats
+## 📌 Featured Projects
 
-![Ayoub GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoub-dev&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb)
+- 👁️ Face Detection Tool (Python + OpenCV)
+- 🧰 Automation Scripts Collection
+- 🤖 Discord Utility Bot
+- 🌐 Simple Web Projects
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoub-dev&show_icons=true&bg_color=0d1116&title_color=00d9ff&text_color=a4aacb)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayoub-dev&theme=dark)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/ayoub-dev
+- Twitter: https://twitter.com/ayoub_dev
+- Portfolio: coming soon 🚀
+
+---
+
+⭐ دائما كنحاول نبني أدوات بسيطة ولكن قوية تساعد الناس
