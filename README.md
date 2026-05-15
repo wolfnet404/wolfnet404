@@ -1,53 +1,57 @@
-# 👋 Hey there, I'm Ayoub Dev
+# 🚀 Ayoub Dev
 
-🚀 Software Developer | 🐍 Python Enthusiast | 🌐 Web Developer | 🤖 AI & Computer Vision Builder
+![Ayoub Dev](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+
+### 🐍 Python Developer | 🌐 Web Developer | 🤖 AI & Vision Builder
 
 ---
 
 ## 💡 About Me
 
-I'm Ayoub, a passionate developer from Morocco focused on building **real-world tools** using:
+I'm **Ayoub**, a developer from Morocco focused on building real and useful tools using:
 
 - 🐍 Python (automation, tools, AI scripts)
 - 🌐 Web Development (HTML, CSS, JavaScript, React basics)
-- 🤖 AI & Computer Vision (Face detection, Vision tools, smart apps)
+- 🤖 AI & Computer Vision (Face detection, Vision tools)
+- 🧰 Building practical developer tools
 
-I enjoy turning ideas into useful tools that actually solve problems.
+I love turning ideas into working projects.
 
 ---
 
 ## ⚒️ What I Do
 
-- 🧰 Build Python tools & automation scripts
-- 👁️ Work on Face Detection & Computer Vision projects
-- 🌍 Create simple and clean web apps
-- 🤖 Explore AI-powered tools and experiments
-- 🛠️ Develop Discord bots and utility tools
+- 🧰 Build Python automation tools
+- 👁️ Work on Face Detection / Computer Vision projects
+- 🌍 Create modern web apps
+- 🤖 Explore AI-based tools
+- 🛠️ Develop Discord bots & utilities
 
 ---
 
 ## 🧠 Current Focus
 
-- Improving my Python skills (advanced level)
-- Building AI Vision projects (face tracking / detection)
-- Creating useful dev tools for GitHub
-- Learning full-stack web development step by step
+- Improving Python (advanced level)
+- AI Vision projects (face detection & tracking)
+- Building open-source tools
+- Learning full-stack development step by step
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages & Tools:**
-- Python 🐍
-- JavaScript ⚡
-- HTML / CSS 🌐
-- Git & GitHub 🔧
-- Linux 🐧
+<p align="left">
 
-**AI / Vision:**
-- OpenCV 👁️
-- Face Recognition libraries 🤖
-- MediaPipe (learning phase)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+
+</p>
 
 ---
 
@@ -56,7 +60,7 @@ I enjoy turning ideas into useful tools that actually solve problems.
 - 👁️ Face Detection Tool (Python + OpenCV)
 - 🧰 Automation Scripts Collection
 - 🤖 Discord Utility Bot
-- 🌐 Simple Web Projects
+- 🌐 Web Projects Portfolio
 
 ---
 
@@ -68,12 +72,17 @@ I enjoy turning ideas into useful tools that actually solve problems.
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Portfolio
 
-- GitHub: https://github.com/ayoub-dev
-- Twitter: https://twitter.com/ayoub_dev
-- Portfolio: coming soon 🚀
+🚀 My Website:  
+https://ayoub-dev404.netlify.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio
 
 ---
 
-⭐ دائما كنحاول نبني أدوات بسيطة ولكن قوية تساعد الناس
+## 📫 Contact
+
+💬 Feel free to connect through GitHub
+
+---
+
+⭐ Building tools that make life easier
