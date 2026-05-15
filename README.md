@@ -1,8 +1,11 @@
 # 🚀 Ayoub Dev
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/cyberpunk-grid.gif" width="850"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ayoub%20Dev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Developer;AI+%26+Computer+Vision;Building+Smart+Tools+%F0%9F%9A%80" />
+</p>
 
 ### 🐍 Python Developer | 🌐 Web Developer | 🤖 AI & Vision Builder
 
