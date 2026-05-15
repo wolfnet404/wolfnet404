@@ -1,6 +1,8 @@
 # 🚀 Ayoub Dev
 
-![Ayoub Dev](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ayoub+Dev;Python+Developer;Web+Developer;AI+%26+Computer+Vision+Builder" />
+</p>
 
 ### 🐍 Python Developer | 🌐 Web Developer | 🤖 AI & Vision Builder
 
